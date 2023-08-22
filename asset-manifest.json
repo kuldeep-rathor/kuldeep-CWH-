@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuldeep-CWH-/static/css/main.88404e20.css",
+    "main.js": "/kuldeep-CWH-/static/js/main.b241bf2b.js",
+    "static/js/787.a84980ff.chunk.js": "/kuldeep-CWH-/static/js/787.a84980ff.chunk.js",
+    "index.html": "/kuldeep-CWH-/index.html",
+    "main.88404e20.css.map": "/kuldeep-CWH-/static/css/main.88404e20.css.map",
+    "main.b241bf2b.js.map": "/kuldeep-CWH-/static/js/main.b241bf2b.js.map",
+    "787.a84980ff.chunk.js.map": "/kuldeep-CWH-/static/js/787.a84980ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.b241bf2b.js"
+  ]
+}
